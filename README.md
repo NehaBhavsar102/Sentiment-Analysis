@@ -10,7 +10,7 @@ results show that the Logistic Regression classifier outperforms Naive Bayes and
 
 
 # Proposed System
-![Alt-Text](proposed system.png)
+![Alt Text](https://github.com/NehaBhavsar102/Sentiment-Analysis/blob/main/proposed system.png)
 
 
 
