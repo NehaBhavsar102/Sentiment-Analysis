@@ -9,8 +9,9 @@ Support Vector Classifier (SVC) model. The results are evaluated using the accur
 results show that the Logistic Regression classifier outperforms Naive Bayes and Linear SVC classifiers.
 
 
-# Proposed System
-![Alt Text](proposed system.png)
+Result :-
+
+![Alt Text](evaluation.png)
 
 
 
