@@ -10,5 +10,7 @@ results show that the Logistic Regression classifier outperforms Naive Bayes and
 
 
 # Proposed System
+![alt-text](proposed system.png)
+
 
 
